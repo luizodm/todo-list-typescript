@@ -1,3 +1,49 @@
+# Todo List — TypeScript
+
+# Lista de tarefas simples escrita em TypeScript.
+
+https://todo-list-typescript-amber.vercel.app/
+
+✨ Funcionalidades
+
+Adicionar tarefas
+
+Marcar como concluída
+
+Remover tarefas
+
+(Opcional) Filtrar por status
+
+🚀 Como rodar
+# 1) Clonar
+git clone https://github.com/luizodm/todo-list-typescript
+cd todo-list-typescript
+
+# 2) Instalar dependências
+npm install
+
+# 3) Executar o projeto (veja o script disponível no package.json)
+npm run dev       # comum em projetos com Vite
+# ou
+npm start         # comum em projetos Node/React sem Vite
+
+
+Dica: confira os scripts disponíveis no package.json e use o comando correspondente.
+
+🧱 Tecnologias
+
+TypeScript
+
+📦 Build (se aplicável)
+npm run build
+
+🧪 Testes (se aplicável)
+npm test
+
+📝 Licença
+
+Livre para uso educacional/demonstração. Ajuste a licença conforme necessário.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
